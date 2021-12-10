@@ -22,5 +22,5 @@
 </div>
 
 <p align="center">
-  <img src="/Print.png" title="Print">
+  <img src="/RecipePage.png" title="Print">
 </p>
